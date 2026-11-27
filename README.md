@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sergio 👋
 
-Senior Go engineer and AI engineer. In software development since 2003, writing Go since 2017.
+Senior Go engineer and AI engineer, writing Go since 2017.
 
 - 🤖 Building AI products end to end: a multi-agent LLM platform in Go and marketplace integrations. Founder of the [Hefest](https://github.com/hefest-studio) AI studio.
 - 🧰 Go · gRPC · PostgreSQL · Kafka · Redis · Kubernetes · LLM function calling · MCP · multi-agent orchestration
